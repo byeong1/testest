@@ -10,7 +10,7 @@ import { PlainFetcher } from "@nestia/fetcher/lib/PlainFetcher";
 import type { Primitive, Resolved } from "typia";
 import typia from "typia";
 
-import type { TestDto } from "../../dto/index";
+import type { TestDto } from "../dto/index";
 
 /**
  * @controller AppController.getHello

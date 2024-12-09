@@ -827,6 +827,12 @@
   resolved "https://registry.yarnpkg.com/@pkgr/core/-/core-0.1.1.tgz#1ec17e2edbec25c8306d424ecfbf13c7de1aaa31"
   integrity sha512-cq8o4cWH0ibXh9VGi5P20Tu9XF/0fFXl9EUinr9QfTM7a7p0oTA4iJRCQWppXR1Pg8dSM0UCItCkPwsk9qWWYA==
 
+"@project/api@file:packages/api":
+  version "0.1.0"
+  dependencies:
+    "@nestia/fetcher" "^4.0.5"
+    typia "^7.1.0"
+
 "@samchon/openapi@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@samchon/openapi/-/openapi-2.0.1.tgz#6f7dc19777cb6553cf7367f5d04666c8d13f4e8c"
